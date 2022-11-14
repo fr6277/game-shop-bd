@@ -1,0 +1,8 @@
+.free-fire-img{
+    border-radius: 15px;
+    margin: 1vh;
+}
+.free-fire-banner{
+    display: flex;
+    justify-content: space-between;
+}
